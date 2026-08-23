@@ -22,7 +22,7 @@ A 3D interior visualization created in Blender.
 
 ## Final Render
 
-![Final Render](Final_render.png)
+![final render](final_render.png)
 
 ## Viewport Process
 
