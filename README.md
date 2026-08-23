@@ -27,3 +27,7 @@ A 3D interior visualization created in Blender.
 ## Viewport Process
 
 ![Viewport Process](Viewport_process.png)
+
+## Material Process 
+
+![Material Process](Material_process.png)
